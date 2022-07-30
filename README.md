@@ -2,15 +2,15 @@ My name is Jānis Kriņģelis and I'm a Latvian developer, currently squashing b
 
 Current skills include
 
-   PHP
-   MySQL
-   Laravel
-   Unit & Integration testing (including TDD methods)
-   MVC, SOLID & design patterns (KISS, DRY etc.)
-   GIT
-   Building REST API
-   HTML & CSS, VueJS basics
+   PHP <br />
+   MySQL <br />
+   Laravel <br />
+   Unit & Integration testing (including TDD methods) <br />
+   MVC, SOLID & design patterns (KISS, DRY etc.) <br />
+   GIT <br />
+   Building REST API <br />
+   HTML & CSS, VueJS basics <br />
 
-Down below are my contacts
-LinkedIn - https://www.linkedin.com/in/janis-kringelis/
-Email - janiskringelis@gmail.com
+Down below are my contacts <br />
+LinkedIn - https://www.linkedin.com/in/janis-kringelis/ <br />
+Email - janiskringelis@gmail.com <br />
